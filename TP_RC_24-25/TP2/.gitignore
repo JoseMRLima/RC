@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+logs/*.json
+logs/*.csv
+logs/*.txt
+*.pcap
+.DS_Store
+.idea/
+sniffer/scapy/
+logs/
+*.json
+*.csv
+*.txt
+.venv/
+venv/
