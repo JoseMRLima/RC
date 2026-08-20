@@ -1,5 +1,7 @@
 
-# Trabalho Prático RC 2025/2026
+# Trabalho Prático RC 2024/2025
+
+**Nota:** 16,85
 
 
 ## Grupo
