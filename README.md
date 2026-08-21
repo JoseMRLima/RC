@@ -7,4 +7,4 @@ Conteúdo da unidade curricular **Redes de Computadores** do ano letivo 2025/202
 Neste repositório podes encontrar:
 
 - 📁 [Slides teóricos](slides/) — diapositivos das aulas teóricas
-- 📁 [Trabalho Prático](TP_RC_24-25/) — implementação e relatório do trabalho de grupo
+- 📁 [Trabalho Prático](TP_RC_25-26/) — implementação e relatório do trabalho de grupo
