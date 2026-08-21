@@ -1,6 +1,6 @@
 # Redes de Computadores
 
-Conteúdo da unidade curricular **Redes de Computadores** do ano letivo 2024/2025.
+Conteúdo da unidade curricular **Redes de Computadores** do ano letivo 2025/2026.
 
 ## Conteúdo
 
